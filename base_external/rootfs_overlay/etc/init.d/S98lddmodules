@@ -15,7 +15,7 @@ case "$1" in
 		;;
 		
 	*)
-		echo "Usage should be: $0 {start|stop}
+		echo "Usage should be: $0 {start|stop}"
 		exit 1
 		;;
 		
