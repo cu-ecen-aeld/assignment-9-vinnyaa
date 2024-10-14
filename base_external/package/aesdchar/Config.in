@@ -1,5 +1,5 @@
-Config BR2_PACKAGE_AESDCHAR
-	bool "aesdchar"
 
+config BR2_PACKAGE_AESDCHAR
+	bool "aesdchar"
 	help
-		Includes the AESDCHAR device implementation with dynamic circular buffer
+	  Build to include aesdchar device and circle buffer
