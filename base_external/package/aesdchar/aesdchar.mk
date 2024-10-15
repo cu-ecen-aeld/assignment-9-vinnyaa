@@ -6,7 +6,7 @@
 ##############################################################
 
 
-AESDCHAR_VERSION = '3713b34cae0234a0c32576b3d9fb17cfbadb17b0'
+AESDCHAR_VERSION = '1c965669fe34c30b0f2b01a8d4713b0bc8e299a5'
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
 AESDCHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-vinnyaa.git'
